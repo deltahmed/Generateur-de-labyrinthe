@@ -8,7 +8,7 @@ Pour exécuter le programme il faut ouvrir le dossier .***\Code Source*** conten
 
 La page ci-dessous devrais apparaitre après l’exécution du fichier ***Générateur de Labyrinthe.py***
 
-![1](images\1.png)
+![1](images/1.png)
 
 Vous pouvez aussi consulter et tester les fonctions propres à chaque classe du programme en ouvrant et en exécutant le fichier* approprié
 
@@ -55,13 +55,13 @@ Paramètres graphiques du graphe, de l’application et du labyrinthe, lorsque l
 
 L’entrée du labyrinthe est définie par l’icône ci-dessous (ou un point vert si le labyrinthe est trop grand ou si les images sont inaccessibles)
 
-![](images\2.png)
+![](images/2.png)
 
 ***Sortie :***
 
 La sortie du labyrinthe est définie par l’icône ci-dessous (ou un point rouge si le labyrinthe est trop grand ou si les images sont inaccessibles)
 
-![](images\3.png)
+![](images/3.png)
 
 ***Performances :***
 
